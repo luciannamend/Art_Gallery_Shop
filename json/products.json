@@ -1,0 +1,71 @@
+[
+   {
+      "src": "./img/photo01.jpg",
+      "alt": "blueLights",
+      "title": "Blue Lights",
+      "price": "9,999.99",
+      "description": "Top-grade brushes type: red sable (from various members of the weasel family). ",
+      "actionLabel": "View",
+      "actionURL": "./json/details1.json"
+   },
+   {
+      "src": "./img/photo02.jpg",
+      "alt": "coupleWalking",
+      "title": "Enjoy the Walk",
+      "price": "10,000.00",
+      "description": "Top-grade brushes type: bleached hog bristles."
+   },
+   {
+      "src": "./img/photo03.jpg",
+      "alt": "precious",
+      "title": "Precious",
+      "price": "9,922.11",
+      "description": "European linen of strong close weave."
+   },
+   {
+      "src": "./img/photo04.jpg",
+      "alt": "forAllTime",
+      "title": "For all time",
+      "price": "9,900.99",
+      "description": "Mixed coarsely grained materials. ",
+      "actionLabel": "View ",
+      "actionURL": "./json/details2.json"
+   },
+   {
+      "src": "./img/photo05.jpg",
+      "alt": "solitude",
+      "title": "solitude",
+      "price": "9,580.00",
+      "description": "Top-grade brushes type: bleached hog bristles."
+   },
+   {
+      "src": "./img/photo07.jpg",
+      "alt": "aboutTime",
+      "title": "About Time",
+      "price": " 9,922.11",
+      "description": "Top-grade brushes type: red sable (from various members of the weasel family)"
+   },
+   {
+      "src": "./img/photo06.jpg",
+      "alt": "impression",
+      "title": "Impression",
+      "price": "9,899.99",
+      "description": "Mixed coarsely grained materials.",
+      "actionLabel": "View ",
+      "actionURL": "./json/details3.json"
+   },
+   {
+      "src": "./img/photo08.jpg",
+      "alt": "sunday",
+      "title": "Sunday",
+      "price": "9,610.00",
+      "description": "European linen of strong close weave."
+   },
+   {
+      "src": "./img/photo09.jpg",
+      "alt": "noWave",
+      "title": "No wave",
+      "price": "9,733.33",
+      "description": "Top-grade brushes type: bleached hog bristles."
+   }
+]
